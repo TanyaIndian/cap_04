@@ -4,3 +4,5 @@ if(num % 2 == 0)
 {
     console.log("even");
 }
+
+console.log("program end");
