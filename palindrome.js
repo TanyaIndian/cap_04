@@ -1,3 +1,5 @@
+
+
 let name = "naman";
 let bag = ""; 
 for(let i = name.length - 1; i >=0; i--)
@@ -12,3 +14,4 @@ if(name == bag)
 else{
     console.log("Not palindrome");
 }
+
